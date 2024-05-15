@@ -2,7 +2,7 @@
 This Project is based on NLP .
 
 In this project I dealed with these libraries:-
-numpy pandas  nltk nltk.corpus stopwords string seaborn matplotlib.pyplot
+numpy, pandas,nltk, nltk.corpus, stopwords, string, seaborn, matplotlib.pyplot
 
 
 Software used in this : Google Colab
